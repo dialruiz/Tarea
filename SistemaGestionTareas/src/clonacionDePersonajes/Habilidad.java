@@ -1,3 +1,5 @@
+package clonacionDePersonajes;
+
 public class Habilidad {
     private String tipo;
     private String nombre;
